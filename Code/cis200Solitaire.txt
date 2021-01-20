@@ -1,0 +1,22 @@
+Moved 5S from T0 to D2
+
+Moved 10C from P2 to P3
+
+
+
+Printing board!
+
+Printing board!
+
+Printing board!
+
+New Card dealt: 3C
+
+Printing board!
+
+New Card dealt: QD
+
+Printing board!
+
+Quitting game!
+
