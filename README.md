@@ -1,5 +1,5 @@
 # SolitaireProgram
-Solitaire Program for CIS 200. Program contains implementation of solitaire card game.
+Solitaire Program for Computer Science 2 class. Program contains implementation of solitaire card game.
 
 ## INTRODUCTION: SOLITAIRE THE CARD GAME
 
